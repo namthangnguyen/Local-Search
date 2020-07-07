@@ -1,0 +1,9 @@
+5                           # So ngay trong tuan 
+12                          # So tiet hoc mot ngay  
+5                           # So phong hoc
+8                           # So lop hoc
+4                           # So giao vien
+40 40 40 50 30              # So cho ngoi moi phong
+30 40 45 30 30 45 30 40     # So hoc sinh moi lop
+3 4 2 4 2 3 3 2             # So tiet hoc moi lop
+1 2 2 3 0 1 0 3             # Giao vien day lop 

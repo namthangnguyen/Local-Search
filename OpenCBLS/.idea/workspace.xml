@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f442cec-b5f9-4917-ae3a-6c56f12a1bc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YkRxL9nVP0T5i2CzukKAFEotq8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ChocoSportScheduling" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="climb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConstraintObjectiveFunction">
+    <configuration name="CSP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.CSP" />
+      <module name="OpenCBLS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search_strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstraintObjectiveFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ConstraintObjectiveFunction" />
+      <module name="OpenCBLS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="school_schedule.SchoolSchedule" />
+      <module name="OpenCBLS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="school_schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="school_schedule.project" />
+      <module name="OpenCBLS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readFile" />
+      <module name="OpenCBLS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConstraintObjectiveFunction" />
+        <item itemvalue="Application.CSP" />
+        <item itemvalue="Application.project" />
+        <item itemvalue="Application.readFile" />
+        <item itemvalue="Application.SchoolSchedule" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f442cec-b5f9-4917-ae3a-6c56f12a1bc8" name="Default Changelist" comment="" />
+      <created>1583484851180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583484851180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="215" width="847" height="673" key="#Project_Structure" timestamp="1592151798332">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="555" y="215" width="847" height="673" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1592151798332" />
+    <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589942980545">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1589942980545" />
+    <state x="711" y="422" width="488" height="260" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593756023711">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="711" y="422" width="488" height="260" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1920.1052@0.28.1920.1052" timestamp="1593756023711" />
+    <state x="780" y="234" width="424" height="480" key="FileChooserDialogImpl" timestamp="1592372479384">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="780" y="234" width="424" height="480" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1592372479384" />
+    <state width="1874" height="234" key="GridCell.Tab.0.bottom" timestamp="1593795447089">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="234" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1593795447089" />
+    <state width="1874" height="234" key="GridCell.Tab.0.center" timestamp="1593795447089">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="234" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1593795447089" />
+    <state width="1874" height="234" key="GridCell.Tab.0.left" timestamp="1593795447089">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="234" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1593795447089" />
+    <state width="1874" height="234" key="GridCell.Tab.0.right" timestamp="1593795447089">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="234" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1593795447089" />
+    <state x="370" y="111" width="1255" height="730" key="SettingsEditor" timestamp="1590394637113">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="370" y="111" width="1255" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1590394637113" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585399686246">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585399686246" />
+    <state x="269" y="154" width="1372" height="795" key="new project wizard" timestamp="1591233831000">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="269" y="154" width="1372" height="795" key="new project wizard/0.28.1920.1052@0.28.1920.1052" timestamp="1591233831000" />
+    <state x="623" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1591176683706">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="623" y="260" width="672" height="678" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1591176683706" />
+  </component>
+</project>
